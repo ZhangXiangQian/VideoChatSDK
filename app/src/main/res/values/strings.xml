@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoChatSDK</string>
+    <string name="title_activity_video_call">VideoCallActivity</string>
+</resources>
